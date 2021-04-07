@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\vs\c&c++learn\classdesign\classdesign\main.cpp(1669): warning C4101: “room_id”: 未引用的局部变量
+d:\vs\c&c++learn\classdesign\classdesign\main.cpp(1887): warning C4101: “end”: 未引用的局部变量
+d:\vs\c&c++learn\classdesign\classdesign\main.cpp(1887): warning C4101: “start”: 未引用的局部变量
+  ClassDesign.vcxproj -> D:\vs\c&c++learn\ClassDesign\Debug\ClassDesign.exe
